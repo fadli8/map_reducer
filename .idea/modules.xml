@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP_MAPREDUCE/TP_MAPREDUCE.iml" filepath="$PROJECT_DIR$/TP_MAPREDUCE/TP_MAPREDUCE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TP_MAPREDUCE (1).iml" filepath="$PROJECT_DIR$/.idea/TP_MAPREDUCE (1).iml" />
+    </modules>
+  </component>
+</project>
